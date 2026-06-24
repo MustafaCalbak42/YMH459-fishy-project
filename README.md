@@ -73,3 +73,8 @@ Uygulamayı açtıktan sonra mobil cihazınızın kamerasını bu görsellerden 
 * **Programlama Dili:** C# (.NET Framework 4.7.1+)
 * **3D Tasarım:** Blender (Optimize edilmiş Low-poly balık modelleri ve yüzme animasyonları)
 * **Sürüm Kontrolü:** Git & GitHub
+
+
+
+https://github.com/user-attachments/assets/26156d5e-19c2-4ce2-8111-24a6ea9db8d4
+
